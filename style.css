@@ -1,0 +1,9 @@
+#box-name {
+    position: static;
+}
+
+#box-email {
+    position: relative; 
+    top: 35px;
+    left: -180px; 
+}
