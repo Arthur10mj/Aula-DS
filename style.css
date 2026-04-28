@@ -2,11 +2,10 @@
     display: flex;
     flex-direction: column;
     width: min-content;
-    padding: 0;
     gap: 10px;
 }
-#box-button {
-    width: 3%;
+.boxes button {
+    align-self: center;
 }
 .container {
     display: flex;
