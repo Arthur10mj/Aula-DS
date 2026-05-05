@@ -4,12 +4,26 @@
     width: min-content;
     gap: 10px;
 }
+.boxes{
+    background-color: lightgrey;
+    border-radius: 25px;
+}
+.boxes {
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  padding: 20px;
+}
 
 .div-fora{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: -50%;
+    height: 55vh;
 }
 
 .boxes button {
