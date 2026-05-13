@@ -37,3 +37,12 @@
 div {
     padding: 1cm;
 }
+
+button:disabled{
+    background-color: orange;
+    color: red;
+}
+
+button{
+    background-color: purple;
+}
